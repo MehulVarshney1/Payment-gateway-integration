@@ -1,1 +1,1 @@
-# Payment-gateway-integration
+# Paymet-gateway-integration
